@@ -1,2 +1,2 @@
-# Station_M-t-o
+# Station_Meteo
 Station météo réalisée en Python en terminale.
